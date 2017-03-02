@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFTest"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Hi" Height="350" Width="525">
     <Grid>
-        
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="42">
+            Hi there
+        </TextBlock>
+
+
     </Grid>
 </Window>
